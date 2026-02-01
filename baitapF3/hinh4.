@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Thời khóa biểu học kì I - Lớp 12A</title>
+</head>
+
+<body>
+
+<h2 align="center">THỜI KHÓA BIỂU HỌC KÌ I - LỚP 12A</h2>
+
+<table border="1" cellspacing="0" cellpadding="8" align="center">
+    <tr>
+        <th>Buổi</th>
+        <th>Tiết</th>
+        <th>Thứ Hai</th>
+        <th>Thứ Ba</th>
+        <th>Thứ Tư</th>
+        <th>Thứ Năm</th>
+        <th>Thứ Sáu</th>
+    </tr>
+
+    <tr>
+        <td rowspan="3">Sáng</td>
+        <td>Tiết 1</td>
+        <td>Chào cờ</td>
+        <td>GDQP</td>
+        <td>Lịch sử</td>
+        <td>GDQP</td>
+        <td>Địa lí</td>
+    </tr>
+
+    <tr>
+        <td>Tiết 2</td>
+        <td>Ngữ văn</td>
+        <td>Ngoại ngữ</td>
+        <td>HĐTN</td>
+        <td>Tin học</td>
+        <td>Địa lí</td>
+    </tr>
+
+    <tr>
+        <td>Tiết 3</td>
+        <td>Toán</td>
+        <td>Ngoại ngữ</td>
+        <td>HĐTN</td>
+        <td>Tin học</td>
+        <td>GDQP</td>
+    </tr>
+
+    <tr>
+        <td colspan="7" align="center">Ra chơi</td>
+    </tr>
+</table>
+
+</body>
+</html>
+
